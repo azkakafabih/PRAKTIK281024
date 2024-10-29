@@ -1,3 +1,3 @@
-print("---mulai baris ini adalah coding pythonnya AZKA-----")
+print("---mulai baris ini adalah coding python AZKA-----")
 print("@@[ Hai,saya adalah pemrograman  python ]")
 
